@@ -1,0 +1,9 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="UserInterface" fileName="UserInterface.dll" assemblyName="UserInterface.dll" id="Project-8D66C4BD61C0112" version="8.0.1096.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="5E7F8DDBB8287B0C2FD622B1154B44">
+    <Assemblies>
+      <Assembly value="UserInterface.dll" digest="335E2785B32AA144FA416C5CFADEFF" />
+      <Assembly value="UserInterface.pdb" digest="4564CA4C1309F03F0CD81949E80E2D" />
+      <Assembly value="CRMAdapter.dll" digest="0ADB0D15C90DA16ECB86E06B30793C" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>

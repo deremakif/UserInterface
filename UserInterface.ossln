@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Pega Robotics Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{B45C44CD-E95B-43EF-AF7C-4D25776FBF5E}") = "UserInterface", "UserInterface\UserInterface.osproj", "{37D0AF3B-2280-4AEF-8626-032608AF0B40}"
+EndProject
+Project("{B45C44CD-E95B-43EF-AF7C-4D25776FBF5E}") = "CRMAdapter", "..\CRMAdapter\CRMAdapter\CRMAdapter.osproj", "{AF171C21-0359-459A-B551-DFB9BD0606D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37D0AF3B-2280-4AEF-8626-032608AF0B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D0AF3B-2280-4AEF-8626-032608AF0B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D0AF3B-2280-4AEF-8626-032608AF0B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D0AF3B-2280-4AEF-8626-032608AF0B40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF171C21-0359-459A-B551-DFB9BD0606D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF171C21-0359-459A-B551-DFB9BD0606D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF171C21-0359-459A-B551-DFB9BD0606D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF171C21-0359-459A-B551-DFB9BD0606D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

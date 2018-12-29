@@ -1,0 +1,9 @@
+<Cache>
+  <Project configuration="" />
+  <DesignComponents>
+    <DesignComponent id="GlobalContainer-8D66C51F4CAC0FC" className="GCUI" type="GlobalContainer" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D66CB1D8006848" className="UIAutomation1" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="DesignForm-8D66C4BE51297C5" className="WindowsForm1" type="WinForm" isPublic="True" screenShots="" />
+    <DesignComponent id="Automator-8D66CB7DE1E6DBE" className="UIAutomation2" type="Automation" isPublic="True" screenShots="" />
+  </DesignComponents>
+</Cache>
